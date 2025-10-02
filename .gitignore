@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+.venv2/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Jupyter / misc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data artifacts
+*.parquet
+*.feather
+*.arrow
