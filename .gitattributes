@@ -1,2 +1,0 @@
-dist/MarketSentimentDashboard.exe filter=lfs diff=lfs merge=lfs -text
-build/MarketSentimentDashboard/MarketSentimentDashboard.pkg filter=lfs diff=lfs merge=lfs -text
