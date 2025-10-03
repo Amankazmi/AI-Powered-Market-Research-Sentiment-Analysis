@@ -1,3 +1,7 @@
+import subprocess, sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", "vaderSentiment==3.3.2"])
+
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
